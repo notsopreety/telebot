@@ -1,0 +1,13 @@
+node_modules
+
+*.zip
+*.dev.*
+*.rar
+*test.*
+*.test.*
+test.js
+pixart.png
+ytmusic.mp4
+
+
+cache/*
