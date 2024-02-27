@@ -7,7 +7,7 @@ node_modules
 *.test.*
 test.js
 pixart.png
-ytmusic.mp4
+ytmusic.mp3
 
 
 cache/*
