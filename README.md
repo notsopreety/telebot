@@ -36,9 +36,6 @@ https://vercel.com
 ```
 https://railway.app
 ```
-```
-https://shell.segfault.net
-```
 ---
 # For Replit
 * First login to Replit, then create a new project with `nodejs` language, then open shell and type:
